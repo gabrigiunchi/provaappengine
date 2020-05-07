@@ -59,6 +59,7 @@
 				<artifactId>appengine-maven-plugin</artifactId>
 				<version>2.2.0</version>
                 <configuration>
+                    <version>1</version>
                     <projectId>freezer-276212</projectId>
                 </configuration>
 			</plugin>
