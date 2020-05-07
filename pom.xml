@@ -58,6 +58,9 @@
 				<groupId>com.google.cloud.tools</groupId>
 				<artifactId>appengine-maven-plugin</artifactId>
 				<version>2.2.0</version>
+                <configuration>
+                    <projectId>freezer-276212</projectId>
+                </configuration>
 			</plugin>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
